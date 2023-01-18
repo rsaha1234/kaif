@@ -1,0 +1,17 @@
+.CONTAINER-1 li {
+    float: right;
+    list-style:none;
+   margin-top:10px;
+}
+
+.CONTAINER-1 li{
+    display:inline-block;
+}
+
+.CONTAINER-1 li a {
+    color: rgba(16, 16, 16, 0.87);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "sans-serif";
+    font-size: 30px;
+}

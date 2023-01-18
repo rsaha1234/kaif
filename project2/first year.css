@@ -1,0 +1,48 @@
+.CONTAINER-1 DIV{
+    display: flex;
+    width: 40%;
+       
+    flex-direction: column
+    ;margin-left: 10CM;
+ }
+ .BOX-1{
+     
+ height: 1.8CM;
+ width: 10CM;
+ border-radius: 200PX;}
+ .BOX-2{
+     
+     height: 1.8CM;
+     width: 10CM;
+     border-radius: 200PX;}
+ #F1{
+    margin-top: 3CM;
+    
+ }
+ #F2{
+    
+    margin-top: .2CM;
+ }
+ #F3{
+    
+    background-size: cover;
+    background-position: bottom;
+     
+    margin-top: .2CM;
+ }
+ #F4{
+    background-size: cover;
+    background-position: bottom;
+    margin-top: .2CM;
+ }
+ #F5{
+    
+    margin-top: .2CM;
+ }
+ #F6{
+    
+    margin-top: .2CM;
+    background-size: cover;
+    background-position: 50%;
+ }
+ BODY{}

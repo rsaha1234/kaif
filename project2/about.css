@@ -1,0 +1,58 @@
+.nav.menu
+ {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-image: url('pic2.webp');
+    /* filter: blur(8px);
+    -webkit-filter: blur(8px); */
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position:center;
+    background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+   border: 3px solid #280e0e;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  
+ } 
+
+.top li {
+  float: right;
+  list-style:none;
+ margin-top:0px;
+}
+
+.top li{
+  display:inline-block;
+}
+
+.top li a {
+  color: rgba(28, 20, 16, 0.954);
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family: "verdana","sans-serif";
+  font-size: 20px;
+}
+
+h1{
+  color: rgb(0, 0, 0);
+  font-family: "verdana","sans-serif";
+  text-align:center;
+  margin-top: 275px;
+}
+
+p{
+  font-size: large;
+}

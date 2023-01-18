@@ -1,0 +1,30 @@
+.CONTAINER-1 DIV{
+    display: flex;
+    width: 40%;
+ 
+    flex-direction: column
+    ;
+ }
+ .BOX-1{margin-left: 10CM;
+     background:linear-gradient(PURPLE,RED);
+ height: 1.5CM;
+ width: 8CM;
+ border-radius: 200PX;}
+ .BOX-2{margin-left: 14CM;
+     background:linear-gradient(GREEN,YELLOW);
+     height: 1.5CM;
+     width: 8CM;
+     border-radius: 200PX;}
+ #F1{
+     margin-top: 2.5CM;
+ }
+ #F2{
+     margin-top: 1CM;
+ }
+ #F3{
+     margin-top: 1CM;
+ }
+ #F4{
+     margin-top: 1CM;
+ }
+ BODY{background-color: brown;}

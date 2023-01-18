@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    padding:0;
+}HEADER{
+  background-image: url('pic2.webp');
+  background-repeat: no-repeat;
+  height: .5in;
+  background-size: cover;
+} 
+.H li {
+  float: right;
+  list-style:none;
+ margin-top:5px;
+}
+
+.H li{
+  display:inline-block;
+}
+
+.H li a {
+  color:rgb(230, 255, 9);
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family:cursive;
+  font-size: 30px;;
+}

@@ -1,0 +1,61 @@
+.CONTAINER-1 li {
+    float: right;
+    list-style:none;
+   margin-top:10px;
+}
+
+.CONTAINER-1 li{
+    display:inline-block;
+}
+
+#f1 li a {
+    color: rgb(2, 64, 251);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#f2 li a {
+    color: rgb(1, 1, 1);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#f3 li a {
+    color: rgb(244, 6, 6);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#f4 li a {
+    color: rgb(154, 151, 151);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}#f5 li a {
+    color: brown;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#f6 li a {
+    color: rgb(0, 255, 8);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+body{
+    background-image:url("pic3.jfif");
+background-size: cover;
+background-repeat: no-repeat}

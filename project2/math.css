@@ -1,0 +1,31 @@
+body
+ {
+    margin:0;
+    padding:0;
+}
+.heading{
+   color: brown;
+}
+header
+{
+    height: 1CM;
+    background-color: rgb(233, 174, 91);
+    color: black;
+}
+.HOME{
+color: rgba(30, 201, 90, 0.87);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "verdana","sans-serif";
+    font-size: 20px;
+    font-weight: 900;
+}
+.HOME {
+    float: right;
+    list-style: none;
+
+}
+
+MAIN{
+    background-color: rgb(9, 234, 227);
+}
